@@ -2,8 +2,8 @@
 
 one:
   post: one
-  context: MyText
+  content: MyText
 
 two:
   post: two
-  context: MyText
+  content: MyText
